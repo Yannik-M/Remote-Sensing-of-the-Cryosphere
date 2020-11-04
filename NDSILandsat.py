@@ -9,3 +9,4 @@ img_array = rb.ReadAsArray()
 ds = none
 
 import seaborn
+import mayavi
